@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Zaki</h1>
 <h3 align="center">from Indonesia</h3>
 
+<div class="badge-base LI-profile-badge" data-locale="in_ID" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="qolbul-muzaki-94595b188" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://id.linkedin.com/in/qolbul-muzaki-94595b188?trk=profile-badge">Qolbul Muzaki</a></div>
+              
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/qolbul-muzaki-94595b188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="qolbul muzaki" height="30" width="40" /></a>
